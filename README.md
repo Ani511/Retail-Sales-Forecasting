@@ -35,7 +35,7 @@ A retail company wants to optimize inventory management by accurately forecastin
 
 Here’s a preview of the Power BI dashboard created to visualize the forecasted sales against actual sales. This dashboard helps in understanding sales trends, seasonal patterns, and forecasting accuracy.
 
-![Power BI Dashboard](powerbi_dashboard.png)
+![Power BI Dashboard](Powerbi_dashboard.png)
 
 ----
 
